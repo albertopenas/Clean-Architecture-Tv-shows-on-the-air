@@ -8,3 +8,6 @@ For that purpose we will use the moviedb API, [get more info in the moviedb](htt
 Learning objetives
 - use tdd.
 - testing pipeline.
+
+Choose the platform do yo want but remember that you can use some dependency inyection or parttern to respect DIP principle.
+
